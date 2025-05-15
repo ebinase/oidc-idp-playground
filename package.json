@@ -1,5 +1,5 @@
 {
-  "name": "with-tailwind",
+  "name": "oidc-idp-playground",
   "private": true,
   "scripts": {
     "build": "turbo run build",
